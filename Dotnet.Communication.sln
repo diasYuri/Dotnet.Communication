@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet.Communication.gRPC.Server", "src\Dotnet.Communication.gRPC.Server\Dotnet.Communication.gRPC.Server.csproj", "{DB9C0B4B-D87A-414D-ACAB-D9DCD1AE56DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet.Communication.gRPC.Proto", "src\Dotnet.Communication.gRPC.Proto\Dotnet.Communication.gRPC.Proto.csproj", "{48C7E971-D38D-49A6-91AC-ED5C09FCB01B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet.Communication.gRPC.Client", "src\Dotnet.Communication.gRPC.Client\Dotnet.Communication.gRPC.Client.csproj", "{DF5DE9C6-ADB5-41C6-8BB0-68D552772743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9C0B4B-D87A-414D-ACAB-D9DCD1AE56DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9C0B4B-D87A-414D-ACAB-D9DCD1AE56DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9C0B4B-D87A-414D-ACAB-D9DCD1AE56DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9C0B4B-D87A-414D-ACAB-D9DCD1AE56DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C7E971-D38D-49A6-91AC-ED5C09FCB01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C7E971-D38D-49A6-91AC-ED5C09FCB01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C7E971-D38D-49A6-91AC-ED5C09FCB01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C7E971-D38D-49A6-91AC-ED5C09FCB01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5DE9C6-ADB5-41C6-8BB0-68D552772743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5DE9C6-ADB5-41C6-8BB0-68D552772743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5DE9C6-ADB5-41C6-8BB0-68D552772743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5DE9C6-ADB5-41C6-8BB0-68D552772743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
